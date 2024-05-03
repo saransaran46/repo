@@ -7,4 +7,4 @@ for sense7ai
 
 company 
 
-for frontend developer
+for frontend 
