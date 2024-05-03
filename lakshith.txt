@@ -4,3 +4,7 @@ lashith is
 selected 
 
 for sense7ai
+
+company 
+
+for frontend developer
